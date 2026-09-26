@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ad7ebdc-07f4-4875-90cf-2e560c32ff9c",
+  "path": "conventional-commit",
+  "path_key": "conventional-commit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
